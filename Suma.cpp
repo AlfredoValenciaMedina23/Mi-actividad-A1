@@ -5,10 +5,11 @@ using namespace std ;
 int  main ()
 {
 int a,b,c;
-a=3 ;
-b=4 ;
+cout <<"INGRESE EL PRIMER VALOR";
+cin>>a;
+cout <<"INGRESE EL SEGUNDO VALOR";
+cin>>b;  
 c=a+b;
-
 cout << " EL RESULTADO ES: " << c << endl;
 return  0 ;
 }
