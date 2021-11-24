@@ -5,7 +5,7 @@ rtmp: //38.96.148.216: 1834 / liv / myStream1? c43
 http://38.96.148.216:1834/liv/internacional/chunklist_w449343516.m3u8
 
 #EXTINF: -1 tvg-id = “OromarTV” tvg-logo = “oromartv.png” group-title = “Variedades – Latinos”, Oromar TV Ecuador
-rtmp: //stream.gcorpvision.com: 18346 / liv / oromartv
+rtmp://stream.gcorpvision.com:18346/liv/oromartv
 
 #EXTINF: -1 tvg-id = “Teleamazonas” tvg-logo = “teleamazonas.png” group-title = “Variedades – Latinos”, Teleamazonas Ecuador
 rtmp: //146.185.16.60/liv playpath = teleamazonaspop? id = 73168 & pk = 85d6d76de90d8106abbb362d38f91c3e1c67e13bbed6aa8eae3d62d8ac866de5 swfUrl = http: //www.embedsucaster. embeducasterfplay./ com / embedplayer / teleamazonaspop / 1/600/400
