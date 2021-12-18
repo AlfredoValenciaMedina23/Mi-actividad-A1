@@ -4,5 +4,5 @@ using namespace std;
 int main ()
 {
 cout<<"Hola mi nombre es Julixa Ortiz";
-retorn 0;
+return 0;
 }
